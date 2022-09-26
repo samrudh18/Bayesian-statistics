@@ -1,6 +1,6 @@
 # Bayesian-statistics
 
-This repository contains the implementation and analysis of Bayesian models. The algorithms and environments have been implemented in Python using the following libraries: Numpy, Matplotlib, Pandas, and PyMC3. All of the above was done as a part of the CGS698C-Bayesian Models & Data Analysis course instructed by Prof Harish Karnick at IIT Kanpur (Spring-2020).   
+This repository contains the implementation and analysis of Bayesian models. The algorithms have been implemented in Python using the following libraries: Numpy, Matplotlib, Pandas, and PyMC3. All of the above was done as a part of the CGS698C-Bayesian Models & Data Analysis course instructed by Prof Harish Karnick at IIT Kanpur (Spring-2020).   
 
 ## [Assignment - 1](/CGS689C-Assignment-2-Notebook.ipynb)  
 
