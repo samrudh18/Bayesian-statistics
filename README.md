@@ -7,15 +7,15 @@ This repository contains the implementation and analysis of Bayesian models. The
 Contains the implementation and analysis of:  
 
 a) Bayesian Models implementation  
-	i) Analytical  
-	ii) MCMC Sampling  
-	iii) PyMC3  
+&emsp;	i) Analytical  
+&emsp;	ii) MCMC Sampling  
+&emsp;	iii) PyMC3  
 b) Data  
-	i) Binomial   
-	ii) Correlation (Height-Weight)    
+&emsp;	i) Binomial   
+&emsp;	ii) Correlation (Height-Weight)    
 c) Evaluation  
-	i) Number of samples  
-	ii) Progress of Distribution (entering data points sequentially)  
+&emsp;	i) Number of samples  
+&emsp;	ii) Progress of Distribution (entering data points sequentially)  
 
 ## [Assignment - 2](/CGS689C-Assignment-2-Notebook.ipynb)  
 
